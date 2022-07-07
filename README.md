@@ -18,6 +18,7 @@ Current collections:
 | Collection        | Resource count    | Solution described    |
 | :---------------  | :-------------    | :-----------------    |
 | brute_force       | 1                 | Not yet               |
+| tools             | 1                 | Not yet               |
 
 ## Sources
-This folder is set to collect all non-code resources.
+This folder is set to collect all non-coded resources.
