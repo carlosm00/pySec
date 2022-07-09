@@ -1,9 +1,9 @@
 # pySec
 
-Simple collection of pythonic solutions, tools and more related to security on an educational point of view. 
+Simple collection of pythonic solutions, tools and more related to security from an educational point of view. 
 Under the educational point of view, these collections are designed to test the strength and find vulnerabilities of any of the resources (networks, webpages, APIs, etc) you own.
 
-*The pourpose of this repository is educational and not intended to harm nor cause any kind of damage to any person nor organization.*
+*The purpose of this repository is educational and not intended to harm nor cause any kind of damage to any person nor organization.*
 *Please, use the content here collected only on your own systems.*
 
 # Content
